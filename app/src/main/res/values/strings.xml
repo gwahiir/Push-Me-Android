@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Push Me</string>
+    <string name="main_title">Enter Text -</string>
+    <string name="send_data">Send</string>
+    <string name="recent_history">Recent History -</string>
+    <string name="action_settings">settings</string>
+</resources>
